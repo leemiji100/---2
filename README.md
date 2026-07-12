@@ -26,12 +26,13 @@
 | 항목 | 내용 |
 |------|------|
 | **씬 번호** | Scene 01 |
-| **씬 길이** | 6초 |
+| **씬 길이** | 8초 |
 | **목표 메시지** | 브랜드의 세계관(조선 × 전통문양)을 한 컷에 각인 |
 | **화면 구성** | 조선시대 배경 / 한복을 입은 인물이 한 바퀴 회전 / 전통문양 오버레이 |
 | **내레이션 · 카피** | *"조선의 문양을 입고 태어난 우리의 전통문양."* |
 | **출력 결과 요약** | 네온·우천·도시 질감이 강한 키비주얼 확보 |
 | **결과 파일명** | `scene01_keyvisual.png` / `scene01_motion.mp4` / `scene01_bgm.wav` |
+[scene01_bgm.wav](https://github.com/user-attachments/files/29935069/scene01_bgm.wav)
 
 ---
 
@@ -100,10 +101,19 @@ Korean traditional fusion, upbeat and bouncy Gayageum melody,
 rhythmic Samulnori percussion, Janggu, Kkwaenggwari,
 cinematic, elegant, high energy
 ```
+[scene01_bgm.wav](https://github.com/user-attachments/files/29935070/scene01_bgm.wav)
 
 **Lyrics (Custom Mode)**
 ```
-조선의 문양을 입고 태어난 우리의 전통문양.
+조선의 문양을 입고 태어난 우리의 전통문양
+
+https://github.com/user-attachments/assets/5854f920-19a7-4c19-936e-607202d8623f
+
+
+
+https://github.com/user-attachments/assets/cf0c8d9d-9441-47d3-b907-f55b154ba1a8
+
+.
 (또는 Instrumental)
 ```
 
@@ -150,8 +160,8 @@ cinematic, elegant, high energy
 ```
 📂 한국전통을입다_광고기획
 ├── scene01_keyvisual.png     ← Midjourney 생성 키비주얼
-├── scene01_motion.mp4        ← 드롭ㅅ샷 변환 영상 (8초)
-├── scene01_bgm.wav           ← Suno AI 생성 배경음악
+├── scene01_motion.mp4        ← 드롭샷 변환 영상 (8초)
+├── scene01_bgm.wav           ← 제미나이 생성 배경음악
 └── 기획서_한국전통을입다.pdf  ← 본 문서
 ```
 
