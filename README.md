@@ -90,8 +90,7 @@ cinematic slow motion, high quality.
 
 ---
 
-#### 🎵 사용 도구 ③ — 오디오 생성 : Suno AI
-
+#### 🎵 사용 도구 ③ — 오디오 생성 : 제미나이
 **목표**
 전통의 무게감과 현대적인 세련미가 공존하는 배경음악 생성
 
@@ -127,7 +126,7 @@ cinematic, elegant, high energy
 |------|------|-----------|
 | 이미지 생성 AI 1개 이상 | **Midjourney** | ✅ |
 | 비디오 생성/변환 AI 1개 이상 | **드롭샷** | ✅ |
-| 오디오 생성 AI 1개 이상 | **Suno AI** | ✅ |
+| 오디오 생성 AI 1개 이상 | **제미나이** | ✅ |
 | 스토리보드 필수 필드 기록 | 씬번호·길이·목표·화면·내레이션·도구·프롬프트·결과·파일명 | ✅ |
 
 
@@ -151,7 +150,7 @@ cinematic, elegant, high energy
 ```
 📂 한국전통을입다_광고기획
 ├── scene01_keyvisual.png     ← Midjourney 생성 키비주얼
-├── scene01_motion.mp4        ← Runway 변환 영상 (6초)
+├── scene01_motion.mp4        ← 드롭ㅅ샷 변환 영상 (8초)
 ├── scene01_bgm.wav           ← Suno AI 생성 배경음악
 └── 기획서_한국전통을입다.pdf  ← 본 문서
 ```
